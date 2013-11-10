@@ -21,7 +21,7 @@ Teambox: Project Management and Collaboration software
 
 - Website: <http://teambox.com/>
 - Copyright: (cc) 2009 Teambox Technologies
-- License: GNU AFFERO GENERAL PUBLIC LICENSE
+- License: MIT License
 
 LICENSE
 -------
