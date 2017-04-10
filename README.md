@@ -2,9 +2,9 @@ Free Icon Set for files
 ================================
 
 A free icon set with vector images for popular extensions:
-AAC, AI, AIFF, AVI, C, CPP, CSS, DAT, DMG, DOC, EXE, FLV, GIF, H, HPP, HTML,
-ICS, JAVA, JPG, KEY, MID, MP3, MP4, MPG, PDF, PHP, PNG, PPT, PSD, PY, QT,
-RAR, RB, RTF, SQL, TIFF, TXT, WAV, XLS, XML, YML, ZIP.
+AAC, AI, AIFF, AVI, C, CPP, CSS, CSV, DAT, DMG, DOC, EXE, FLV, GIF, H, HPP,
+HTML, ICS, JAVA, JPG, KEY, MID, MP3, MP4, MPG, PDF, PHP, PNG, PPT, PSD, PY,
+QT, RAR, RB, RTF, SQL, TIFF, TXT, WAV, XLS, XML, YML, ZIP.
 
 All icons are also offered in 512x512px, 48x48px, 32x32px.
 
